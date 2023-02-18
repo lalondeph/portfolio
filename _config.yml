@@ -2,8 +2,12 @@ title: Philip Lalonde
 author: Philip Lalonde
 url: https://www.philiplalonde.com # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
-
+  I left the lawn care industry in 2019 to pursue a career in IT. It has been a wild ride so far and I am excited to keep learning. 
+  Graduating from St. Lawrence College in 2022 with an advanced diploma in computer programing and analysis gave me a strong foundation in the fundamentals of developmen.
+  I started work as a Junior Software Engineer at elentra in 2021. After almost 2 years, I have worked across the stack and settled as a back end engineer.
+  I am also a Certified Scrum Master and have been acting in that role for several month. I love the challenge of group/process optimization and agile implimentation and refinement.
+  
+  
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
