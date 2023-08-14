@@ -2,11 +2,7 @@ title: Philip Lalonde
 author: Philip Lalonde
 url: https://www.philiplalonde.com # root address of the site
 description: > # description of the site (multiple lines allowed)
-  I left the lawn care industry in 2019 to pursue a career in IT. It has been a wild ride so far and I am excited to keep learning. 
-  Graduating from St. Lawrence College in 2022 with an advanced diploma in computer programming and analysis gave me a strong foundation in the fundamentals of development.
-  I started work as a Junior Software Engineer at Elentra in 2021. After almost 2 years, I have worked across the stack and settled as a back end engineer.
-  I am also a Certified Scrum Master and have been acting in that role for several month. I love the challenge of group/process optimization and agile implementation and refinement.
-  
+  Thank you for stopping by, this blog is a collection of thoughts about software engineering, mobile app development, UI/UX and graphic design.
   
 permalink: /:slug
 

@@ -6,18 +6,19 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
-    highlight: WOW
+  - title: Pug Pad
+    url: pug-pad
+    desc: Cross platform drawing app. A Flutter re-write of my first app.
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Backwords
+    url: backwords
+    desc: A backwards speaking game built in Dart and Flutter.
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Jade Rapids
+    url: jade-rapids
+    desc: endless swimmer game built with Flutter and Flame Engine
+    highlight: NEW
+
 
 old_project_entries:
   - title: Soopr
@@ -39,8 +40,14 @@ old_project_entries:
 
 footer_entries:
 
-  - title: github
+  - title: GitHub
     url: https://github.com/lalondeph
+
+  - title: Jade Pug
+    url: https://jadepug.com/lalondeph    
+
+  - title: Linkedin
+    url: https://www.linkedin.com/in/philip-lalonde/
 
 misc_entries:
   - title: this is an example vertical list
