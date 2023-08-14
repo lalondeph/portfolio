@@ -3,9 +3,9 @@ author: Philip Lalonde
 url: https://www.philiplalonde.com # root address of the site
 description: > # description of the site (multiple lines allowed)
   I left the lawn care industry in 2019 to pursue a career in IT. It has been a wild ride so far and I am excited to keep learning. 
-  Graduating from St. Lawrence College in 2022 with an advanced diploma in computer programing and analysis gave me a strong foundation in the fundamentals of developmen.
-  I started work as a Junior Software Engineer at elentra in 2021. After almost 2 years, I have worked across the stack and settled as a back end engineer.
-  I am also a Certified Scrum Master and have been acting in that role for several month. I love the challenge of group/process optimization and agile implimentation and refinement.
+  Graduating from St. Lawrence College in 2022 with an advanced diploma in computer programming and analysis gave me a strong foundation in the fundamentals of development.
+  I started work as a Junior Software Engineer at Elentra in 2021. After almost 2 years, I have worked across the stack and settled as a back end engineer.
+  I am also a Certified Scrum Master and have been acting in that role for several month. I love the challenge of group/process optimization and agile implementation and refinement.
   
   
 permalink: /:slug
@@ -39,7 +39,7 @@ theme_config:
     title_old_projects: Old Projects
 
 soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+  publish_token: 'pt_0c8d6519bfdf29463aa96bf6f7e0f2ab' # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
